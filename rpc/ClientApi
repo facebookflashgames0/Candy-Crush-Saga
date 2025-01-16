@@ -1,0 +1,1 @@
+[{"jsonrpc":"2.0","id":0,"result":{"coreUserId":937,"activityState":0,"payState":0,"payVolume":0,"churnRisk":0,"payPrediction":0,"usermetricsSegmentNo":0,"loyaltyState":0,"conversionPrediction":0,"networkActivityState":0,"networkPayState":0,"networkPayVolume":0,"networkLoyaltyState":0,"networkChurnRisk":0,"networkMidcorePropensity":0,"networkPbPropensity":0}}]
